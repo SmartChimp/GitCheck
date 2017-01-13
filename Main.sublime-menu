@@ -1,0 +1,14 @@
+[{
+  "id": "tools",
+  "children": [{
+    "id": "git_check",
+    "caption": "Git Check",
+    "children": [{
+        "caption": "Look @master",
+        "command": "look_at_master"
+      }, {
+        "caption": "Look @staging",
+        "command": "look_at_staging"
+    }]
+  }]
+}]

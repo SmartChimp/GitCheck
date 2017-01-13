@@ -1,0 +1,7 @@
+[{
+  "caption": "Look @master",
+  "command": "look_at_master"
+}, {
+  "caption": "Look @staging",
+  "command": "look_at_staging"
+}]
