@@ -3,7 +3,7 @@ Simple sublimetext plugin to check helpkit code in git repo.
 
 To install the plugin in SublimeText v3 excute bellow lines in shell,
 
-	cd "~/Library/Application Support/Sublime Text 3/Packages/"
+	cd ~/"Library/Application Support/Sublime Text 3/Packages/"
 	git clone https://github.com/SmartChimp/GitCheck.git
 
 
